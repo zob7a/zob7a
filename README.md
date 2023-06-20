@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zob7a
+- 👋 Hi, I’m @MartiG
 - 👀 I’m interested in computer technologies
 - 🌱 I’m currently learning QA 
 - 💞️ I’m looking to collaborate on QA
